@@ -1,0 +1,11 @@
+Package: cranlog
+Type: Package
+Title: Read and Format CRAN Download Logs
+Version: 0.1.0
+Date: 2015-07-27
+Author: Oliver Keyes
+Maintainer: Oliver Keyes <ironholds@gmail.com>
+Description: Functions to read and format the CRAN download logs from the 'RStudio' CRAN mirror (http://cran-logs.rstudio.com/).
+License: MIT + file LICENSE
+LazyData: TRUE
+Imports: readr
